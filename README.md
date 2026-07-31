@@ -1,9 +1,5 @@
 # 🧬 RNA-seq Differential Gene Expression Analysis using DESeq2
 
-**Author:** Kirtikaa Chezhian
-
-**Field:** Bioinformatics | Computational Biology | RNA-seq Analysis
-
 # 📌 Project Overview
 
 This project demonstrates a complete end-to-end RNA-seq differential gene expression (DGE) analysis workflow using Linux, R, and Bioconductor. The objective was to identify genes that are significantly differentially expressed between untreated and dexamethasone-treated human airway smooth muscle cells using the DESeq2 package.
